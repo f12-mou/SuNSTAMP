@@ -1,0 +1,2 @@
+rank = 9 both p-val and log er oi curve er thik elbow tai rank-9
+lambda = 500 ba 1000 -> etatei min loss pawa jay, why not then!

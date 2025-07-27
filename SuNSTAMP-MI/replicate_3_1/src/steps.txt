@@ -1,0 +1,12 @@
+1. First process_adata.py
+2. new_conda_2.sh which will run nmf_final_2.py (Cross Validation)
+3. errors_grouping.py + result folder e mou_errors e files nau
+4. rank_test.py -> see the figures -> rank 9 is taken as best rank
+5. automate W script file + new_supervised_final_run.py -> W matrix gula pabo
+6. Coeff.py
+
+
+
+
+
+
