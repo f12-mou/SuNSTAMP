@@ -1,0 +1,3 @@
+rank = 9  as elbow found
+lambda = 8, pcc good(0.86), loss is minimum and geneset also good
+

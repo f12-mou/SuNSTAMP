@@ -1,0 +1,152 @@
+Running with lambda = 0.01
+Running model with rank=9 and lambda=0.01
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+10254.308894135289
+Running with lambda = 0.02
+Running model with rank=9 and lambda=0.02
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9230.227087183752
+Running with lambda = 0.05
+Running model with rank=9 and lambda=0.05
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9725.814508818861
+Running with lambda = 0.1
+Running model with rank=9 and lambda=0.1
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+10041.693305034027
+Running with lambda = 0.2
+Running model with rank=9 and lambda=0.2
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9978.865296243232
+Running with lambda = 0.5
+Running model with rank=9 and lambda=0.5
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9298.816846558018
+Running with lambda = 1
+Running model with rank=9 and lambda=1.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+10017.72490479963
+Running with lambda = 2
+Running model with rank=9 and lambda=2.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9688.28174922078
+Running with lambda = 5
+Running model with rank=9 and lambda=5.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9806.739531425585
+Running with lambda = 8
+Running model with rank=9 and lambda=8.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+10055.720969444685
+Running with lambda = 10
+Running model with rank=9 and lambda=10.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+10145.563520433372
+Running with lambda = 12
+Running model with rank=9 and lambda=12.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9008.235899745663
+Running with lambda = 14
+Running model with rank=9 and lambda=14.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+10034.909162160224
+Running with lambda = 15
+Running model with rank=9 and lambda=15.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+8839.797019215974
+Running with lambda = 16
+Running model with rank=9 and lambda=16.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9120.644423750517
+Running with lambda = 18
+Running model with rank=9 and lambda=18.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9803.507985489103
+Running with lambda = 20
+Running model with rank=9 and lambda=20.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9988.572644440063
+
+Running with lambda = 25
+Running model with rank=9 and lambda=25.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9995.48847680146
+Running with lambda = 30
+Running model with rank=9 and lambda=30.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+10139.815204752958
+Running with lambda = 40
+Running model with rank=9 and lambda=40.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9991.476392534498
+Running with lambda = 50
+Running model with rank=9 and lambda=50.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+9957.214586817963
+Running with lambda = 70
+Running model with rank=9 and lambda=70.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+8823.160389712464
+Running with lambda = 100
+Running model with rank=9 and lambda=100.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+10019.712209797712
+Running with lambda = 200
+Running model with rank=9 and lambda=200.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+11210.291366658388
+
+Running with lambda = 500
+Running model with rank=9 and lambda=500.0
+Output W matrix for rank 9 saved as output_W_matrix_rank_9.csv
+Output H matrix first row for rank 9 sorted and saved as output_H_matrix_first_row_rank_9.csv
+done: 
+11547.179164338553
