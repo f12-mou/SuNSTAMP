@@ -1,0 +1,3 @@
+✅ Pearson correlation:  r = 0.2664,  p = 5.8537e-168
+✅ Spearman correlation: r = 0.1356,  p = 9.3331e-44
+✅ AUC (predictive score → plaque proximity): 0.9257
