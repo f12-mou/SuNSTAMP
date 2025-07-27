@@ -1,0 +1,167 @@
+Running with lambda = 0.01
+Running model with rank=12 and lambda=0.01
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+12440.339211598435
+Running with lambda = 0.02
+Running model with rank=12 and lambda=0.02
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+9719.135609304885
+Running with lambda = 0.05
+Running model with rank=12 and lambda=0.05
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+12875.27192220607
+Running with lambda = 0.1
+Running model with rank=12 and lambda=0.1
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+12804.446511288565
+Running with lambda = 0.2
+Running model with rank=12 and lambda=0.2
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+9661.232666434986
+Running with lambda = 0.5
+Running model with rank=12 and lambda=0.5
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+13332.68298272504
+Running with lambda = 1
+Running model with rank=12 and lambda=1.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+13745.441685052965
+Running with lambda = 2
+Running model with rank=12 and lambda=2.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+9330.485514471738
+Running with lambda = 5
+Running model with rank=12 and lambda=5.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+13300.202702953926
+Running with lambda = 8
+Running model with rank=12 and lambda=8.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+13369.20154750917
+Running with lambda = 10
+Running model with rank=12 and lambda=10.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+13597.3459022848
+Running with lambda = 12
+Running model with rank=12 and lambda=12.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+13554.267667476846
+Running with lambda = 14
+Running model with rank=12 and lambda=14.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+12910.171168733554
+Running with lambda = 15
+Running model with rank=12 and lambda=15.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+9920.914464365422
+Running with lambda = 16
+Running model with rank=12 and lambda=16.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+13561.497148087281
+Running with lambda = 18
+Running model with rank=12 and lambda=18.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+13225.05497505406
+Running with lambda = 20
+Running model with rank=12 and lambda=20.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+13249.184588860837
+Running with lambda = 25
+Running model with rank=12 and lambda=25.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+13260.619437548392
+Running with lambda = 30
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv  
+done:
+13260.619437548392
+Running with lambda = 30
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv  
+done:
+13260.619437548392
+Running with lambda = 30
+done:
+13260.619437548392
+Running with lambda = 30
+13260.619437548392
+Running with lambda = 30
+Running with lambda = 30
+rix_first_row_rank_12.csv
+done:
+13224.773572541006
+Running with lambda = 40
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv     
+done:
+12408.915737695204
+Running with lambda = 50
+Running model with rank=12 and lambda=50.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv     
+done:
+10029.80003988678
+Running with lambda = 70
+Running model with rank=12 and lambda=70.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv                                                                                           sv
+done:
+12841.342300397433
+Running with lambda = 100
+Running model with rank=12 and lambda=100.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+13029.332723921687
+Running with lambda = 200
+Running model with rank=12 and lambda=200.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done:
+12958.405792652367
+Running with lambda = 500
+Running model with rank=12 and lambda=500.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+12276.314028290371
+Running with lambda = 1000
+Running model with rank=12 and lambda=1000.0
+Output W matrix for rank 12 saved as output_W_matrix_rank_12.csv
+Output H matrix first row for rank 12 sorted and saved as output_H_matrix_first_row_rank_12.csv
+done: 
+12764.879030012862
