@@ -1,0 +1,28 @@
+
+Supervised:
+0    10   Component_1             0.919532
+1    10   Component_2            -0.129293
+2    10   Component_3            -0.227380
+3    10   Component_4            -0.027361
+4    10   Component_5            -0.182549
+5    10   Component_6            -0.137277
+6    10   Component_7            -0.092424
+7    10   Component_8             0.020621
+8    10   Component_9            -0.134442
+9    10  Component_10            -0.251070
+
+
+
+
+Unsupervised:
+   Rank     Component  Pearson Correlation
+0    10   Component_1            -0.189289
+1    10   Component_2            -0.225143
+2    10   Component_3             0.293001
+3    10   Component_4             0.090439
+4    10   Component_5            -0.052712
+5    10   Component_6             0.022208
+6    10   Component_7            -0.156556
+7    10   Component_8             0.088067
+8    10   Component_9            -0.139305
+9    10  Component_10            -0.080750
