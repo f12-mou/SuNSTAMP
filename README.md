@@ -1,8 +1,8 @@
-# SunSTAMP Analysis Repository
+# SuNSTAMP Analysis Repository
 
 ## Repository Structure
 
-This repository contains replicate analyses organized in a folder-wise structure. Each replicate follows the pattern: `SunSTAMP/SuNSTAMP-AD/replicate/[month]_[replicate_number]/`
+This repository contains replicate analyses organized in a folder-wise structure. Each replicate follows the pattern: `SuNSTAMP/SuNSTAMP-AD/replicate/[month]_[replicate_number]/`
 
 ### Folder Organization
 
@@ -70,7 +70,7 @@ You have two options:
 
 1. **Run extraction yourself**  
    - Download the main dataset (`expression_matrix_normalized.csv`) from:  
-     [Main dataset link](https://zenodo.org/records/7332091)
+     [Main dataset link](https://zenodo.org/records/7332091) [1]
    - Place it in the same directory as extraction.py.  
    - Run the script:  
      ```bash
@@ -81,6 +81,8 @@ You have two options:
    - Directly use the processed gene expression files provided in the Google Drive folder:  
      [Processed data (Google Drive)](https://drive.google.com/drive/folders/1jXY8URujCCVqC4V-0jcnMtVKxvr5HCgh?usp=sharing)  
 
+For MI, there is a similar file named process_adata.py. If you want to run this file, you need to download the original dataset from [2]. Otherwise, you may use processed datasets from the Google Drive. 
+
 </details>
 
 ---
@@ -89,7 +91,7 @@ You have two options:
   <summary>Step-2: spatial_decay_model.py (for Alzheimer's analysis)</summary>
 
 **Purpose:**  
-Calculates a spatially smoothened supervision value for each cell based on nearby plaques, normalizes the values and initial intensity, and generates visualizations. This step is part of the supervision pipeline for SuNSTAMP in AD analysis. For MI, we directly used Pathological scores from SPaSE pipeline. The python file also creates two key plots:  
+Calculates a spatially smoothened supervision value for each cell based on nearby plaques, normalizes the values and initial intensity, and generates visualizations. This step is part of the supervision pipeline for SuNSTAMP in AD analysis. For MI, we directly used Pathological scores from SPaSE [3] pipeline. The python file also creates two key plots:  
 
 1. Colormap of normalized attraction values for all cells.  
 2. Overlay of cells and plaques with plaque radii.  
@@ -280,6 +282,19 @@ Evaluate how the predictive performance of SuNSTAMP-derived gene weights varies 
 </details>
 
 ---
+
+
+
+[1]: Zeng, H., Huang, J., Zhou, H., Meilandt, W.J., Dejanovic, B., Zhou, Y., Bohlen, C.J., Lee, S.-H., Ren, J., Liu, A., et al. *Integrative in situ mapping of single-cell transcriptional states and tissue histopathology in a mouse model of Alzheimer’s disease.* Nature Neuroscience, 26(3):430–446, 2023.
+
+
+[2]: Calcagno, M., Taghdiri, N., Ninh, V.K., Mesfin, J.M., Toomu, A., Sehgal, R., Lee, J., Liang, Y., Duran, J.M., Adler, E., et al. *Single-cell and spatial transcriptomics of the infarcted heart define the dynamic onset of the border zone in response to mechanical destabilization.* Nature Cardiovascular Research, 1(11):1039–1055, 2022.
+
+
+[3] Rahman, M.N., Abrar, M.A., Shaw, V.R., Martin, J.F., Rahman, M.S., Samee, M.A.H. *SPASE: Spatially resolved pathology scores using optimal transport on spatial transcriptomics data.* Cell Systems, 2025.
+
+
+
 
 
 
