@@ -283,7 +283,7 @@ Evaluate how the predictive performance of SuNSTAMP-derived gene weights varies 
 
 ---
 
-
+## Citation ##
 
 [1]: Zeng, H., Huang, J., Zhou, H., Meilandt, W.J., Dejanovic, B., Zhou, Y., Bohlen, C.J., Lee, S.-H., Ren, J., Liu, A., et al. *Integrative in situ mapping of single-cell transcriptional states and tissue histopathology in a mouse model of Alzheimer’s disease.* Nature Neuroscience, 26(3):430–446, 2023.
 
