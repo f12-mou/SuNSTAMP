@@ -2,7 +2,7 @@ import pandas as pd
 
 
 # The input file name is constant here
-file_name_1 = "/kaggle/input/ad-dataset/expression_matrix_normalized.csv"
+file_name_1 = "expression_matrix_normalized.csv"
 start_index_spot = 29261
 end_index_spot = 40001
 # Output_File
