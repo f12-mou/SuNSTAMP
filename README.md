@@ -1,4 +1,9 @@
 # SuNSTAMP
+SuNSTAMP has been successfully applied to two datasets to demonstrate its flexibility and predictive power. Notably, it has been used on:  
+
+1. **Alzheimer’s Disease (AD) dataset** – Spatial transcriptomics data from mouse brain tissue.  
+2. **Myocardial Infarction (MI) dataset** – Spatial transcriptomics data from infarcted mouse heart tissue.  
+
 
 ## Repository Structure
 
