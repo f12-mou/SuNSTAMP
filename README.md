@@ -286,6 +286,7 @@ Evaluate how the predictive performance of SuNSTAMP-derived gene weights varies 
 
 ## General Guidelines for Applying SuNSTAMP to Any Dataset
 
+
 SuNSTAMP is designed to be flexible and can be experimented with **any spatial observation-feature dataset**. Below are the key guidelines for adapting it:
 
 ### Required Input Files
@@ -299,20 +300,20 @@ SuNSTAMP is designed to be flexible and can be experimented with **any spatial o
    - For example, these could be spatial coordinates, pathology scores, or other quantitative labels.  
    - Must have an identifier column (matching the observation IDs in the observation-feature matrix).  
 
----
+
 
 ### Cross-Validation and Parameter Selection
 - SuNSTAMP uses **nested k-fold cross-validation** to select the optimal factorization **rank** and regularization **lambda**.  
 - Users can adjust the number of folds, rank range, and lambda values according to their dataset and experimental goals.  
 
----
+
 
 ### Quick Manual Experiments
 - To bypass nested cross-validation and experiment with **one or two specific values** of rank and lambda:  
   - Use the `new_supervised_nmf.py` script.  
   - This allows for **fast exploration** of parameters without full cross-validation.  
 
----
+
 
 ### Recommendations
 - Ensure that the **observation IDs** in both files match exactly.  
