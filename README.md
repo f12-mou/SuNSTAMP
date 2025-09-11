@@ -7,7 +7,7 @@ SuNSTAMP has been successfully applied to two datasets to demonstrate its flexib
 
 ## Repository Structure
 
-This repository contains replicate analyses organized in a folder-wise structure. Each replicate follows the pattern: `SuNSTAMP/SuNSTAMP-AD/replicate/[month]_[replicate_number]/`
+This repository contains replicate analyses organized in a folder-wise structure. Each replicate follows the pattern: `SuNSTAMP/SuNSTAMP-AD[or SuNSTAMP-MI]/replicate_[time-point]_[replicate_number]/`
 
 ### Folder Organization
 
