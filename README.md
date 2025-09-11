@@ -1,4 +1,4 @@
-# SuNSTAMP Analysis Repository
+# SuNSTAMP
 
 ## Repository Structure
 
