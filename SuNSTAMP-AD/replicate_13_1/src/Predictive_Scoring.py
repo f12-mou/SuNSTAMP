@@ -17,7 +17,7 @@ which_lambda_from = 2.75e-05
 # === File paths ===
 gene_expr_file = f"../data/gene_exp_{months}_{replicate_now}.csv"
 spatial_file = f"../data/supervision_{months}_{replicate_now}.csv"
-gene_score_file = f"../../replicate_{months}_{genes_from_replicate}/result/H_matrices_{months}_{genes_from_replicate}/output_H_matrix_first_row_rank_{which_rank_from}_{which_lambda_from}_{months}_{genes_from_replicate}.csv"
+gene_score_file = f"../../replicate_{months}_{genes_from_replicate}/result/H_Matrices_{months}_{genes_from_replicate}/output_H_matrix_first_row_rank_{which_rank_from}_{which_lambda_from}_{months}_{genes_from_replicate}.csv"
 plaque_file = f"../data/plaque_{months}_{replicate_now}.csv"
 
 # === Load data ===

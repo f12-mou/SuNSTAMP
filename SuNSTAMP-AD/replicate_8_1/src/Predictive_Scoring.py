@@ -16,7 +16,7 @@ which_lambda_from = 1.75e-05
 # === Parameters ===
 gene_expr_file = f"../data/gene_exp_{months}_{replicate_now}.csv"
 spatial_file = f"../data/supervision_{months}_{replicate_now}.csv"
-gene_score_file = f"../../replicate_{months}_{genes_from_replicate}/result/H_matrices_{months}_{genes_from_replicate}/output_H_matrix_first_row_rank_{which_rank_from}_{which_lambda_from}_{months}_{genes_from_replicate}.csv"
+gene_score_file = f"../../replicate_{months}_{genes_from_replicate}/result/H_Matrices_{months}_{genes_from_replicate}/output_H_matrix_first_row_rank_{which_rank_from}_{which_lambda_from}_{months}_{genes_from_replicate}.csv"
 plaque_file = f"../data/plaque_{months}_{replicate_now}.csv"
 top_n_genes = 20 # Change as needed
 

@@ -9,7 +9,7 @@ replicate = 1
 rank = 10
 
 # Paths
-w_folder = f'../result/W_matrices_{months}_{replicate}'
+w_folder = f'../result/W_Matrices_{months}_{replicate}'
 supervision_file = f'../data/supervision_{months}_{replicate}.csv'
 output_file = f'../result/Supervised_Factor_correlation_results_{months}_{replicate}.csv'
 
