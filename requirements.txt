@@ -1,0 +1,32 @@
+# SuNSTAMP: Python dependencies (platform-independent; recommended installation file)
+#
+# Python: 3.10, 3.11 or 3.12 (scipy==1.14.1 requires >=3.10; numba 0.60 wheels exist for <=3.12)
+#
+# Exact versions below are taken from the original environment export
+# (requirements_windows.txt, an archival snapshot).
+# scanpy and statannotations were used but not recorded in that export; their version
+# ranges were chosen from PyPI metadata to be compatible with the pinned packages.
+#
+# Tested 2026-11-26: fresh venv, Python 3.12.16, macOS 26.6.2 (arm64) -> install succeeded,
+# `pip check` reported no broken requirements (resolved scanpy 1.11.5, statannotations 0.7.2).
+#
+# Install:  pip install -r requirements.txt
+
+# Core numerical and analysis packages (all pipeline scripts)
+numpy==2.0.2
+pandas==2.2.2
+scipy==1.14.1
+scikit-learn==1.5.1
+
+# Plotting (pipeline figures and Figure_Generation scripts)
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# MI preprocessing (process_adata.py) and Figure 4 notebooks
+scanpy>=1.10,<1.12
+numba==0.60.0
+llvmlite==0.43.0
+
+# Figure 4 notebooks
+statannotations>=0.7,<0.8
+ipykernel==6.29.5
